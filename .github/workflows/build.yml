@@ -1,6 +1,6 @@
 name: Build Windows Exe
 
-# 触发条件：推送到 main 分支，或手动触发
+# 触发条件：推送到 main 分支，或手动触发1111
 on:
   push:
     branches: [ "最终版" ]
